@@ -1,0 +1,14 @@
+cd..
+mkdir
+git add .
+git init
+ls .git/objects
+git status
+git push --set-upstream <myURL> master
+git clone <URL>
+git branch
+git branch -a
+git checkout
+git branch -d
+git commit -m "comment"
+git merge
